@@ -1,45 +1,20 @@
-# 👋 Hi, I'm Mohit Kumar Gupta
+# 👨‍💻 Mohit Kumar Gupta
 
-### 💻 Web Developer | Frontend & Backend Enthusiast
+🚀 Full Stack Developer | 🔧 API Builder | 🎨 UI Enthusiast
 
-I’m a passionate developer with hands-on experience building responsive and dynamic web applications using **HTML, CSS, JavaScript, React, Redux**, and more. I love crafting clean UIs and writing scalable code to solve real-world problems.
+👨‍💼 Working at Wipro | 🏅 Awarded “Panache – Best Newcomer”  
+🌐 HTML | 🎯 CSS | ⚛️ React | 🔄 Redux | 💻 C# | 🔧 ASP.NET | 🛠 SQL
 
----
+## 📚 Projects
+🍽️ **[Food Ordering App](https://github.com/mohit71099/Domato)**  
+Built using React, Redux, and TailwindCSS for a smooth ordering experience.
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, React, Redux, TailwindCSS
-- **Backend:** C#, ASP.NET, Web API, SQL
-- **Tools & Platforms:** Git, GitHub, VS Code, Azure Notification Hub
+🌦️ **[Weather App](https://github.com/mohit71099/Weather-App)**  
+Real-time data from public APIs using JavaScript and dynamic DOM updates.
 
----
+💻 **[Laptop Store](https://github.com/mohit71099/The-Laptop-Store)**  
+Simple product showcase made with HTML, CSS, and JS.
 
-### 🚀 Featured Projects
-
-- 🍽️ [**Food Ordering App**](https://github.com/mohit71099/Domato)  
-  A responsive web app built using React, Redux, TailwindCSS, and React Router for seamless food ordering.
-
-- ☁️ [**Weather App**](https://github.com/mohit71099/Weather-App)  
-  JavaScript-based weather application fetching real-time data from a public API.
-
-- 💻 [**Laptop Store**](https://github.com/mohit71099/The-Laptop-Store)  
-  A simple e-commerce mock site using HTML, CSS, and JavaScript.
-
----
-
-### 🏆 Achievements
-- 🏅 Awarded **“Panache – Best Newcomer”** at Wipro in 2023
-
----
-
-### 📈 GitHub Stats
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit71099&show_icons=true&theme=tokyonight)
-
----
-
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohit-gupta-798a87149/) 
-- ✉️ Email: mohitkumargupta1998@gmail.com
-
----
-
-*“First, solve the problem. Then, write the code.” – John Johnson*
+## 📬 Contact Me
+📧 Email: Mohit.gupta41@wipro.com  
+🔗 GitHub: [mohit71099](https://github.com/mohit71099)
